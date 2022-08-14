@@ -1,2 +1,7 @@
 # Reddit-NBA
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42880953/184520806-596cdb02-de63-414b-a7ef-6cefbea5d5d0.png"/>
+</p>
+<p align="center">
 analyzing fan sentiment via Reddit
+</p>
