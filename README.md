@@ -34,5 +34,10 @@ Reddit is in the top 20 most visited websites in the world and has a growing pre
 * [Kanitha Mann](https://www.linkedin.com/in/kanithamann), Senior Data Scientist at Nike
 * [Dr. Arup Sen](https://www.linkedin.com/in/arup-sen-ph-d-a802852), Senior Director at NBA
 
-
-
+### Co-Authers :scroll: ### 
+* Oliver Aramini
+* Jesus Campos
+* Gregory Warmuth
+* Seif Hediya
+* Madeleine Chen
+* Chin-Chia Leong
