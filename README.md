@@ -19,3 +19,5 @@ Finding out which teams and players will perform the best in the upcoming season
 * NBA Draft
 * Free Agency
 * NBA Summer League
+
+### How did we do it? :sunglasses: ###
