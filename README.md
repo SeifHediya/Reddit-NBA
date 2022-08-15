@@ -10,3 +10,8 @@ analyzing fan sentiment via Reddit
 We are:
 * NBA Analytics Stars
 * Entrepreneurs
+
+### What did we do? 🤔 ###
+We analyzed fan sentiment on r/NBA using Natural Language Processing
+
+### Scope :mag: ###
