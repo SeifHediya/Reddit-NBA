@@ -12,7 +12,7 @@ We are:
 * Entrepreneurs
 
 ### What did we do? 🤔 ###
-We analyzed fan sentiment on r/NBA using Natural Language Processing
+We analyzed fan sentiment on r/NBA using Natural Language Processing (NLP)
 
 ### Scope :mag: ###
 Finding out which teams and players will perform the best in the upcoming season using fan conversations on:
@@ -21,3 +21,4 @@ Finding out which teams and players will perform the best in the upcoming season
 * NBA Summer League
 
 ### How did we do it? :sunglasses: ###
+We used Reddit's API (PRAW) and Python's NLP packages to apply Machine Learning technique to reddit's rich text datasets
