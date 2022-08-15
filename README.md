@@ -27,3 +27,7 @@ We used Reddit's API (PRAW) and Python's NLP packages to apply Machine Learning 
 
 ### Why Reddit? 💎 ###
 Reddit is in the top 20 most visited websites in the world and has a growing presence among NBA fans
+
+<img src="https://user-images.githubusercontent.com/42880953/184570411-8221deb2-3004-4e07-a0c5-073ee4405f61.png" alt="drawing" width="300" height="300"/>
+
+
