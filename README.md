@@ -22,3 +22,7 @@ Finding out which teams and players will perform the best in the upcoming season
 
 ### How did we do it? :sunglasses: ###
 We used Reddit's API (PRAW) and Python's NLP packages to apply Machine Learning technique to reddit's rich text datasets
+
+![image](https://user-images.githubusercontent.com/42880953/184570011-f180262c-639f-443f-92af-215225938e73.png)
+
+### Why Reddit? 💎 ###
