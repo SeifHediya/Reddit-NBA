@@ -5,3 +5,8 @@
 <p align="center">
 analyzing fan sentiment via Reddit
 </p>
+
+### Who are we? :smirk: ###
+We are:
+* NBA Analytics Stars
+* Entrepreneurs
