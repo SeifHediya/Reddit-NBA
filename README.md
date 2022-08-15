@@ -30,4 +30,9 @@ Reddit is in the top 20 most visited websites in the world and has a growing pre
 
 <img src="https://user-images.githubusercontent.com/42880953/184570411-8221deb2-3004-4e07-a0c5-073ee4405f61.png" alt="drawing" width="300" height="300"/>
 
+### Mentors 🤝 ###
+* [Kanitha Mann](https://www.linkedin.com/in/kanithamann), Senior Data Scientist at Nike
+* [Dr. Arup Sen](https://www.linkedin.com/in/arup-sen-ph-d-a802852), Senior Director at NBA
+
+
 
