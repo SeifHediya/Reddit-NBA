@@ -15,3 +15,7 @@ We are:
 We analyzed fan sentiment on r/NBA using Natural Language Processing
 
 ### Scope :mag: ###
+Finding out which teams and players will perform the best in the upcoming season using fan conversations on:
+* NBA Draft
+* Free Agency
+* NBA Summer League
